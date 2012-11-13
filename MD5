@@ -1,0 +1,15 @@
+48501ea7d0b96fa9ae5d5ae9ac47b550 *DESCRIPTION
+40c121916745304de910d075b6aea598 *NAMESPACE
+73a649fbeefdd4a9d4c708dae80cbb19 *NEWS
+edf454120fce84231875834920ac035d *R/TransmissionNetwork.R
+9d63c50349f13d8b09b02b6d87b19f2d *R/onLoad.R
+e1d0779916497f59a204a6cc06b6ddef *R/sim.R
+e46d1d8881c5021213b5c6f38fd712a6 *inst/Infection.java
+0281a7a6bf61bf12f1c52b8835b8e9a5 *inst/SimInfection.java
+6de20431c18f30c7558222ec5f58e363 *inst/java/jpsgcs.jar
+47e97d2df7e808f58ace54318bbddd7f *inst/tests/test-java.R
+f9198682ac6399c746a561ecaa1f34c1 *inst/tests/test.RData
+7a8449a353870e1a5584160a80c5682b *man/TransmissionModel.Rd
+2677f47d6a112747af3c13de581bf087 *man/eventsToPT.Rd
+fd01c9c2ab821af9f3125c051124e546 *man/sim_ward.Rd
+f1f2f73dac7cbdcc4f72c8eba49eadcb *tests/testthat-package.R

@@ -1,0 +1,8 @@
+NEWS
+====
+
+transnet 0.1
+------------
+* Initial release
+* Fitting discrete time disease transmission models with a bayesian network.
+* simulating data in continuous time for a transmission model.
